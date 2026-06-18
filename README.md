@@ -21,14 +21,5 @@ This repository contains basic machine learning and data science projects built 
 - Pandas, NumPy  
 - Scikit-learn  
 
-## Structure
-
-ml-projects/
-
-├── traffic_forecasting/
-
-├── crop_production/
-
-
 ## Note
 Datasets are included for easy execution.
